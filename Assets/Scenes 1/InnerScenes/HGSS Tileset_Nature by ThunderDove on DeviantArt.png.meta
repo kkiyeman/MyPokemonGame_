@@ -1,0 +1,5125 @@
+fileFormatVersion: 2
+guid: 0cc23bf3f0535024fb7b47b1da34a8ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2898566243504706608
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_0
+  - first:
+      213: -603592372659567076
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_1
+  - first:
+      213: -7692841027968116924
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_2
+  - first:
+      213: -7684337689185516117
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_3
+  - first:
+      213: -5886670599746348104
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_4
+  - first:
+      213: -3172571378094690457
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_5
+  - first:
+      213: -3816585234374495211
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_6
+  - first:
+      213: 8442542730218083208
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_7
+  - first:
+      213: 8182152083543504744
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_8
+  - first:
+      213: -3410771334685900119
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_9
+  - first:
+      213: 8044938935452057549
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_10
+  - first:
+      213: -2542091021599382363
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_11
+  - first:
+      213: -303194098310588333
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_12
+  - first:
+      213: 7561538173481576862
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_13
+  - first:
+      213: -50624898796636519
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_14
+  - first:
+      213: 3543750002821942470
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_15
+  - first:
+      213: -5515994650990157242
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_16
+  - first:
+      213: 6718613208684605354
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_17
+  - first:
+      213: -3973015049020611534
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_18
+  - first:
+      213: 5275215649024379566
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_19
+  - first:
+      213: 3191322592270100937
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_20
+  - first:
+      213: -5194717664709746596
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_21
+  - first:
+      213: -1576932846947123339
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_22
+  - first:
+      213: -2590302602972202800
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_23
+  - first:
+      213: 4813790003994366658
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_24
+  - first:
+      213: -236634371896801359
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_25
+  - first:
+      213: -5623859336531454541
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_26
+  - first:
+      213: 4222079212731427628
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_27
+  - first:
+      213: 3487605428403610564
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_28
+  - first:
+      213: 1200628516364747974
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_29
+  - first:
+      213: -4970486518517606633
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_30
+  - first:
+      213: -7623171237483781254
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_31
+  - first:
+      213: -474316333591594568
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_32
+  - first:
+      213: 3332569368545909269
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_33
+  - first:
+      213: -4807525185393552222
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_34
+  - first:
+      213: -7861183915374941341
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_35
+  - first:
+      213: 4844845352287086841
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_36
+  - first:
+      213: -3956730436449512706
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_37
+  - first:
+      213: 2136477600971239373
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_38
+  - first:
+      213: 2990096631040845178
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_39
+  - first:
+      213: 6607794012155084798
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_40
+  - first:
+      213: 8429737310089935930
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_41
+  - first:
+      213: 538049051361081216
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_42
+  - first:
+      213: -8046253186353378868
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_43
+  - first:
+      213: 2631238670809912574
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_44
+  - first:
+      213: 1205172309527767635
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_45
+  - first:
+      213: -1687873812292007385
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_46
+  - first:
+      213: 2706445373349439795
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_47
+  - first:
+      213: 6602224288724972001
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_48
+  - first:
+      213: -8117206735187155322
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_49
+  - first:
+      213: 3145436737879359207
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_50
+  - first:
+      213: -724925859526881767
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_51
+  - first:
+      213: -5626998515452053357
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_52
+  - first:
+      213: -7620306498536504798
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_53
+  - first:
+      213: -5323531692737321780
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_54
+  - first:
+      213: -7838232913138025204
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_55
+  - first:
+      213: 4842580284863745213
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_56
+  - first:
+      213: -3467838027339967668
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_57
+  - first:
+      213: -7479038750930783242
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_58
+  - first:
+      213: 8280690721568309128
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_59
+  - first:
+      213: 7208062481746931350
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_60
+  - first:
+      213: 1876836528394344455
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_61
+  - first:
+      213: 6414062038560636577
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_62
+  - first:
+      213: -8611479513402183745
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_63
+  - first:
+      213: -2342086462180066668
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_64
+  - first:
+      213: -2052542224074411212
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_65
+  - first:
+      213: 4430887375068047173
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_66
+  - first:
+      213: 8590861406149238101
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_67
+  - first:
+      213: 279182115206413673
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_68
+  - first:
+      213: 7015571986862284925
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_69
+  - first:
+      213: 3541449005077516639
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_70
+  - first:
+      213: 8498433225884412395
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_71
+  - first:
+      213: -6794478920635732966
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_72
+  - first:
+      213: 5349745939627759202
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_73
+  - first:
+      213: 3409688534151224841
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_74
+  - first:
+      213: 192488213366403273
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_75
+  - first:
+      213: -2799708648862464338
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_76
+  - first:
+      213: 4400844914927767107
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_77
+  - first:
+      213: 8032939379723903980
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_78
+  - first:
+      213: 5665650448297785568
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_79
+  - first:
+      213: -1215214570397369880
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_80
+  - first:
+      213: -3239206436790611427
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_81
+  - first:
+      213: -2476683207787944412
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_82
+  - first:
+      213: 502866408088797058
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_83
+  - first:
+      213: 8129967097447449444
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_84
+  - first:
+      213: 5467680252773142902
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_85
+  - first:
+      213: 9173777207025657028
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_86
+  - first:
+      213: 4030666516122557517
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_87
+  - first:
+      213: -6749194530786299663
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_88
+  - first:
+      213: 5180456366674838051
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_89
+  - first:
+      213: -59006982797806648
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_90
+  - first:
+      213: 4455612627774668828
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_91
+  - first:
+      213: -9019827009684747599
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_92
+  - first:
+      213: -8671661190044251661
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_93
+  - first:
+      213: -6294908779618540591
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_94
+  - first:
+      213: 7952374794825506957
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_95
+  - first:
+      213: 8419162775260281971
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_96
+  - first:
+      213: 4906811744145246718
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_97
+  - first:
+      213: -5205806251169435779
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_98
+  - first:
+      213: -2507751151913792558
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_99
+  - first:
+      213: -4690442677317632239
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_100
+  - first:
+      213: 7506542249430309075
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_101
+  - first:
+      213: 8497515465196425012
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_102
+  - first:
+      213: 8846746773569801535
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_103
+  - first:
+      213: 1619129515987469983
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_104
+  - first:
+      213: -7923379702767974694
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_105
+  - first:
+      213: -3858396922296972662
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_106
+  - first:
+      213: 2500498812490099876
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_107
+  - first:
+      213: 6037124719595803790
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_108
+  - first:
+      213: 9159554734196902176
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_109
+  - first:
+      213: -8953326824148133371
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_110
+  - first:
+      213: 5456455068878849876
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_111
+  - first:
+      213: -1666639683665665351
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_112
+  - first:
+      213: 6757393221884011750
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_113
+  - first:
+      213: 4204518638050592284
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_114
+  - first:
+      213: 1300805810367028230
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_115
+  - first:
+      213: -4049437160707864817
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_116
+  - first:
+      213: 6779404652629416096
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_117
+  - first:
+      213: 3411476023364974382
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_118
+  - first:
+      213: 1107823563747141049
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_119
+  - first:
+      213: 8655002047524413832
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_120
+  - first:
+      213: -7835177410214691457
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_121
+  - first:
+      213: -4144625059173572435
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_122
+  - first:
+      213: -3449447396025503431
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_123
+  - first:
+      213: 570252761735164452
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_124
+  - first:
+      213: -8338732580151632709
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_125
+  - first:
+      213: 6932013975054932142
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_126
+  - first:
+      213: 3079614702473725596
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_127
+  - first:
+      213: 5653011031674434852
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_128
+  - first:
+      213: 4632443488732282744
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_129
+  - first:
+      213: -1006666181048023730
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_130
+  - first:
+      213: -233626051856010456
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_131
+  - first:
+      213: -8893186045063872481
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_132
+  - first:
+      213: -4383967923460169691
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_133
+  - first:
+      213: 2061739665264593801
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_134
+  - first:
+      213: -4065504782681519808
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_135
+  - first:
+      213: -5642380860677483965
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_136
+  - first:
+      213: -5882716682047419134
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_137
+  - first:
+      213: 960034896702992702
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_138
+  - first:
+      213: 6138492503620002655
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_139
+  - first:
+      213: -6568146039631307560
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_140
+  - first:
+      213: -8255946988756589
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_141
+  - first:
+      213: -4341453596947744250
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_142
+  - first:
+      213: -2757092837325386964
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_143
+  - first:
+      213: 514330144706710067
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_144
+  - first:
+      213: 5207828356241160927
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_145
+  - first:
+      213: -5927283506007302931
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_146
+  - first:
+      213: -3451068860358490435
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_147
+  - first:
+      213: -2825578458661347950
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_148
+  - first:
+      213: -5563402924374189076
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_149
+  - first:
+      213: -8683297922559380755
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_150
+  - first:
+      213: 1867409657170633295
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_151
+  - first:
+      213: 9027159134631578049
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_152
+  - first:
+      213: -7152636690985649050
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_153
+  - first:
+      213: 7475128726124548187
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_154
+  - first:
+      213: 1525512487105909187
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_155
+  - first:
+      213: 204250175399728739
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_156
+  - first:
+      213: 3452267458041104780
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_157
+  - first:
+      213: 9144044818973874336
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_158
+  - first:
+      213: -6691684456234239249
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_159
+  - first:
+      213: 4511880134791642683
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_160
+  - first:
+      213: 1242705214748079881
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_161
+  - first:
+      213: 7685181939297208731
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_162
+  - first:
+      213: -6484394640834784373
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_163
+  - first:
+      213: -418201903568438152
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_164
+  - first:
+      213: -5068135403964274033
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_165
+  - first:
+      213: -4558378301165781135
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_166
+  - first:
+      213: 4206367747644208262
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_167
+  - first:
+      213: -421587790424583584
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_168
+  - first:
+      213: -8079299295432554704
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_169
+  - first:
+      213: -6604369764863241444
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_170
+  - first:
+      213: -7479713342748598144
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_171
+  - first:
+      213: -8006795110647239680
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_172
+  - first:
+      213: 5948930897395770205
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_173
+  - first:
+      213: -1076271777247239103
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_174
+  - first:
+      213: -4285864365640299595
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_175
+  - first:
+      213: 3057553913465290228
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_176
+  - first:
+      213: -8300460403306684244
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_177
+  - first:
+      213: -5089753143551961313
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_178
+  - first:
+      213: 6509611854939725951
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_179
+  - first:
+      213: -5957735161810492634
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_180
+  - first:
+      213: 8984984705490878298
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_181
+  - first:
+      213: -6830745388838189547
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_182
+  - first:
+      213: -4788003136929023049
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_183
+  - first:
+      213: -7468438428168817840
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_184
+  - first:
+      213: 4580037171810593526
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_185
+  - first:
+      213: 2853240371767789259
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_186
+  - first:
+      213: 679883410384806911
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_187
+  - first:
+      213: 8781053655629553457
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_188
+  - first:
+      213: -4022289931562250200
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_189
+  - first:
+      213: -516565762841098559
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_190
+  - first:
+      213: -8861123144038673766
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_191
+  - first:
+      213: 6189245601704702649
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_192
+  - first:
+      213: 769688170377088336
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_193
+  - first:
+      213: 1677871069580021836
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_194
+  - first:
+      213: 3308714951942907508
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_195
+  - first:
+      213: 6342150757288521805
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_196
+  - first:
+      213: -5308325693237104444
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_197
+  - first:
+      213: -7770180459696973874
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_198
+  - first:
+      213: -8126128149368405464
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_199
+  - first:
+      213: 7167530131332247272
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_200
+  - first:
+      213: 4158028853743679176
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_201
+  - first:
+      213: 4888043370073683038
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_202
+  - first:
+      213: 8505080047258625549
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_203
+  - first:
+      213: 1546967377775834348
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_204
+  - first:
+      213: 7233598362573975564
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_205
+  - first:
+      213: 5030921848300283216
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_206
+  - first:
+      213: 767483697612401083
+    second: HGSS Tileset_Nature by ThunderDove on DeviantArt_207
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034590624a6c93820800000000000000
+      internalID: 2898566243504706608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16cd7e5feb9f97f0800000000000000
+      internalID: -603592372659567076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d86ee7d98d3590800000000000000
+      internalID: -7692841027968116924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba583f5c59fbb5590800000000000000
+      internalID: -7684337689185516117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb126847485e4ea0800000000000000
+      internalID: -5886670599746348104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f28100423c8f3d0800000000000000
+      internalID: -3172571378094690457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5147b1253f3c80bc0800000000000000
+      internalID: -3816585234374495211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88394b3f1efe92570800000000000000
+      internalID: 8442542730218083208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86735d518f7dc8170800000000000000
+      internalID: 8182152083543504744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a246f9ca818aa0d0800000000000000
+      internalID: -3410771334685900119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf345f765d55af60800000000000000
+      internalID: 8044938935452057549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ebd63fada8bcd0800000000000000
+      internalID: -2542091021599382363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358d330f296dacbf0800000000000000
+      internalID: -303194098310588333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ece1f7eaffe860800000000000000
+      internalID: 7561538173481576862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996bf6a3ce42c4ff0800000000000000
+      internalID: -50624898796636519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cccdfa1added2130800000000000000
+      internalID: 3543750002821942470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e6c407104373b0800000000000000
+      internalID: -5515994650990157242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafa4e6dd1f4d3d50800000000000000
+      internalID: 6718613208684605354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23468d3ecd30dd8c0800000000000000
+      internalID: -3973015049020611534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa0ea9fea4553940800000000000000
+      internalID: 5275215649024379566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c920f34dfad94c20800000000000000
+      internalID: 3191322592270100937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5067868ec7a8e7b0800000000000000
+      internalID: -5194717664709746596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f321f3eeb9d1ae0800000000000000
+      internalID: -1576932846947123339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d87211b1856d0cd0800000000000000
+      internalID: -2590302602972202800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2196b01840ec240800000000000000
+      internalID: 4813790003994366658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b78171ea4e47bcf0800000000000000
+      internalID: -236634371896801359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5574bdab904f1b0800000000000000
+      internalID: -5623859336531454541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bea68aca6d79a30800000000000000
+      internalID: 4222079212731427628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a8b4b8a6766030800000000000000
+      internalID: 3487605428403610564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40021464d79a010800000000000000
+      internalID: 1200628516364747974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d3ee98d8450bb0800000000000000
+      internalID: -4970486518517606633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73edc7162e053690800000000000000
+      internalID: -7623171237483781254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b97b11cec3ea69f0800000000000000
+      internalID: -474316333591594568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad6891f2aaf3e20800000000000000
+      internalID: 3332569368545909269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a49fd3b05d384db0800000000000000
+      internalID: -4807525185393552222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bef0a11e677e290800000000000000
+      internalID: -7861183915374941341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f826c6cd295c3340800000000000000
+      internalID: 4844845352287086841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef25377b1aed619c0800000000000000
+      internalID: -3956730436449512706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf287cfe0b46ad10800000000000000
+      internalID: 2136477600971239373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7528413b05fe7920800000000000000
+      internalID: 2990096631040845178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efff47bf4a993bb50800000000000000
+      internalID: 6607794012155084798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c74cdbb617cf470800000000000000
+      internalID: 8429737310089935930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087fc12f2c8877700800000000000000
+      internalID: 538049051361081216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc94d8e9b57f55090800000000000000
+      internalID: -8046253186353378868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef455e451a9048420800000000000000
+      internalID: 2631238670809912574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a2a8a84d1a9b010800000000000000
+      internalID: 1205172309527767635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a86a0e5b77398e0800000000000000
+      internalID: -1687873812292007385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3392e7a4ab93f8520800000000000000
+      internalID: 2706445373349439795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e178e0b200df9b50800000000000000
+      internalID: 6602224288724972001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686e2cc2b73e95f80800000000000000
+      internalID: -8117206735187155322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee33c04c06d6ab20800000000000000
+      internalID: 3145436737879359207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec76685cb80f5f0800000000000000
+      internalID: -724925859526881767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39874dec9a2e8e1b0800000000000000
+      internalID: -5626998515452053357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222812b1d9b3f3690800000000000000
+      internalID: -7620306498536504798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4abd771240f16b0800000000000000
+      internalID: -5323531692737321780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0df1a9b1b0093390800000000000000
+      internalID: -7838232913138025204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc0d9bac1d443340800000000000000
+      internalID: 4842580284863745213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c435fc100b3cfdfc0800000000000000
+      internalID: -3467838027339967668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3b365b1ed153890800000000000000
+      internalID: -7479038750930783242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fb3f9965ceae270800000000000000
+      internalID: 8280690721568309128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ea85f13ae280460800000000000000
+      internalID: 7208062481746931350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7081c60f0ecdb0a10800000000000000
+      internalID: 1876836528394344455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae79bfd073530950800000000000000
+      internalID: 6414062038560636577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfeb151201ed7880800000000000000
+      internalID: -8611479513402183745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a718485cc3f7fd0800000000000000
+      internalID: -2342086462180066668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433fd87d8b7e383e0800000000000000
+      internalID: -2052542224074411212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a1be779cad7d30800000000000000
+      internalID: 4430887375068047173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d532cbeeed83770800000000000000
+      internalID: 8590861406149238101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d358497aadfd300800000000000000
+      internalID: 279182115206413673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70ab1d4d815c5160800000000000000
+      internalID: 7015571986862284925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f515ec15b11c52130800000000000000
+      internalID: 3541449005077516639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a7380eff70f570800000000000000
+      internalID: 8498433225884412395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ca0ad9b6925b1a0800000000000000
+      internalID: -6794478920635732966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266d912869d1e3a40800000000000000
+      internalID: 5349745939627759202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e5ec018a5a15f20800000000000000
+      internalID: 3409688534151224841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0772d920bdba200800000000000000
+      internalID: 192488213366403273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6c6fd31df6529d0800000000000000
+      internalID: -2799708648862464338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e8ad92221f21d30800000000000000
+      internalID: 4400844914927767107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3a0b63ecbba7f60800000000000000
+      internalID: 8032939379723903980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e87258901f60ae40800000000000000
+      internalID: 5665650448297785568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f59569c0b22fe0800000000000000
+      internalID: -1215214570397369880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12dfe468e60c03d0800000000000000
+      internalID: -3239206436790611427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426ef9a9ebd01add0800000000000000
+      internalID: -2476683207787944412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ffb97755a8af600800000000000000
+      internalID: 502866408088797058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_84
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46308fe200273d070800000000000000
+      internalID: 8129967097447449444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67116fb883a11eb40800000000000000
+      internalID: 5467680252773142902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4e659d3cdcf4f70800000000000000
+      internalID: 9173777207025657028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cdb8d47ddcfe730800000000000000
+      internalID: 4030666516122557517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f03970455b0652a0800000000000000
+      internalID: -6749194530786299663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32280164e9da4e740800000000000000
+      internalID: 5180456366674838051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3b117367d5e2ff0800000000000000
+      internalID: -59006982797806648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10014ff31485dd30800000000000000
+      internalID: 4455612627774668828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba4440bf1323d280800000000000000
+      internalID: -9019827009684747599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f90fd2971218a780800000000000000
+      internalID: -8671661190044251661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3695911ddf3a8a0800000000000000
+      internalID: -6294908779618540591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80285e0eb28c5e60800000000000000
+      internalID: 7952374794825506957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_96
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cb49dffefd6d470800000000000000
+      internalID: 8419162775260281971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef90e7da84f781440800000000000000
+      internalID: 4906811744145246718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa98dcbc241c7b0800000000000000
+      internalID: -5205806251169435779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db0a1d2d9da23dd0800000000000000
+      internalID: -2507751151913792558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f762b6c3338eeb0800000000000000
+      internalID: -4690442677317632239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_101
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d851cc87689c2860800000000000000
+      internalID: 7506542249430309075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fcb683b4d3de570800000000000000
+      internalID: 8497515465196425012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d06788155f5ca70800000000000000
+      internalID: 8846746773569801535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9688cd57bd487610800000000000000
+      internalID: 1619129515987469983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad689f3e3208a0290800000000000000
+      internalID: -7923379702767974694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_106
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a470c1178347ac0800000000000000
+      internalID: -3858396922296972662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac22c7fb6e83b220800000000000000
+      internalID: 2500498812490099876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84dc3842fc28c350800000000000000
+      internalID: 6037124719595803790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_109
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029cd8850864d1f70800000000000000
+      internalID: 9159554734196902176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9ca0b0b46fb380800000000000000
+      internalID: -8953326824148133371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574761c9f839bb40800000000000000
+      internalID: 5456455068878849876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_112
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e986b908eed8e0800000000000000
+      internalID: -1666639683665665351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e46706455517cd50800000000000000
+      internalID: 6757393221884011750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_114
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16c380cc63795a30800000000000000
+      internalID: 4204518638050592284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd0b81ef36d0210800000000000000
+      internalID: 1300805810367028230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_116
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07cdbf6b528dc7c0800000000000000
+      internalID: -4049437160707864817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a85b9cdc98451e50800000000000000
+      internalID: 6779404652629416096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277e645e5ff75f20800000000000000
+      internalID: 3411476023364974382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5a4f669a7cf5f00800000000000000
+      internalID: 1107823563747141049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881a8fc818ebc1870800000000000000
+      internalID: 8655002047524413832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dfcff68abd34390800000000000000
+      internalID: -7835177410214691457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0e6c4c7755b76c0800000000000000
+      internalID: -4144625059173572435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f0888ed91120d0800000000000000
+      internalID: -3449447396025503431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f86f8dd1f9e700800000000000000
+      internalID: 570252761735164452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_125
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcd51b16eed64c80800000000000000
+      internalID: -8338732580151632709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_126
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85131abf5733060800000000000000
+      internalID: 6932013975054932142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_127
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c964402614dfcba20800000000000000
+      internalID: 3079614702473725596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425b1561597837e40800000000000000
+      internalID: 5653011031674434852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_129
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f75fb2fceb94040800000000000000
+      internalID: 4632443488732282744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45cb3f117a9702f0800000000000000
+      internalID: -1006666181048023730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_131
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82378d8f75ef1ccf0800000000000000
+      internalID: -233626051856010456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_132
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10c18ef86e059480800000000000000
+      internalID: -8893186045063872481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520237f96640923c0800000000000000
+      internalID: -4383967923460169691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bcd6f4d45cc9c10800000000000000
+      internalID: 2061739665264593801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_135
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049cd9ba0fc6497c0800000000000000
+      internalID: -4065504782681519808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3421bd7708c32b1b0800000000000000
+      internalID: -5642380860677483965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d8c4c78546c5ea0800000000000000
+      internalID: -5882716682047419134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f5fde6aab25d00800000000000000
+      internalID: 960034896702992702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f532baea86e403550800000000000000
+      internalID: 6138492503620002655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_140
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc13eaf9f149d4a0800000000000000
+      internalID: -6568146039631307560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391637c824ba2eff0800000000000000
+      internalID: -8255946988756589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a7611a4fe00c3c0800000000000000
+      internalID: -4341453596947744250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_143
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b42721ca6dcb9d0800000000000000
+      internalID: -2757092837325386964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_144
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac484aa84432700800000000000000
+      internalID: 514330144706710067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_145
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaf5f83c4ce54840800000000000000
+      internalID: 5207828356241160927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_146
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec176d2e0f0ebda0800000000000000
+      internalID: -5927283506007302931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db68be2f7275b10d0800000000000000
+      internalID: -3451068860358490435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d9e76cc5789c8d0800000000000000
+      internalID: -2825578458661347950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_149
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb9e463482dac2b0800000000000000
+      internalID: -5563402924374189076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_150
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2f5f6ab8abe7780800000000000000
+      internalID: -8683297922559380755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_151
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f422ac1703f5ae910800000000000000
+      internalID: 1867409657170633295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c943aea769e64d70800000000000000
+      internalID: 9027159134631578049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_153
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cff5a63dabcbc90800000000000000
+      internalID: -7152636690985649050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50d8f2b8fdfcb760800000000000000
+      internalID: 7475128726124548187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_155
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1de564685bb2510800000000000000
+      internalID: 1525512487105909187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366130ec374a5d200800000000000000
+      internalID: 204250175399728739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_157
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c894e2256fae8ef20800000000000000
+      internalID: 3452267458041104780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8503dc05c26ee70800000000000000
+      internalID: 9144044818973874336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_159
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab72de07c5223a0800000000000000
+      internalID: -6691684456234239249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb56fd31b6d9e30800000000000000
+      internalID: 4511880134791642683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_161
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907b5950fc9fe3110800000000000000
+      internalID: 1242705214748079881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_162
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99ce06814047aa60800000000000000
+      internalID: 7685181939297208731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8398911e6dc206a0800000000000000
+      internalID: -6484394640834784373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_164
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c396d959f323af0800000000000000
+      internalID: -418201903568438152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_165
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae025c3bd5aa9b0800000000000000
+      internalID: -5068135403964274033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f3a2f16136db0c0800000000000000
+      internalID: -4558378301165781135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6843ef02e25006a30800000000000000
+      internalID: 4206367747644208262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_168
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062d9166328362af0800000000000000
+      internalID: -421587790424583584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037cda5c81090ef80800000000000000
+      internalID: -8079299295432554704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_170
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131ff7b0b09854a0800000000000000
+      internalID: -6604369764863241444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_171
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08068bf0858b23890800000000000000
+      internalID: -7479713342748598144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_172
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c6988c44622e090800000000000000
+      internalID: -8006795110647239680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ee94e129de8250800000000000000
+      internalID: 5948930897395770205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_174
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144666b55805011f0800000000000000
+      internalID: -1076271777247239103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb4182211d8584c0800000000000000
+      internalID: -4285864365640299595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_176
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd34bda51d9e6a20800000000000000
+      internalID: 3057553913465290228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_177
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a5bcad37decc80800000000000000
+      internalID: -8300460403306684244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17582c8b709d59b0800000000000000
+      internalID: -5089753143551961313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_179
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70aa5f1e79c65a50800000000000000
+      internalID: 6509611854939725951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_180
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6236e6e8f6fd15da0800000000000000
+      internalID: -5957735161810492634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ff9133cf311bc70800000000000000
+      internalID: 8984984705490878298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_182
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516892b72415431a0800000000000000
+      internalID: -6830745388838189547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_183
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbb3efc3889d8db0800000000000000
+      internalID: -4788003136929023049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_184
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053fe1ea1d6ca5890800000000000000
+      internalID: -7468438428168817840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6faeadbaa8f8f8f30800000000000000
+      internalID: 4580037171810593526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6c502400fb89720800000000000000
+      internalID: 2853240371767789259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_187
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3eaac0c5e6f6900800000000000000
+      internalID: 679883410384806911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fd17996c19cd970800000000000000
+      internalID: 8781053655629553457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_189
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8201a954e94fd28c0800000000000000
+      internalID: -4022289931562250200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64ab2fc2ac4d8f0800000000000000
+      internalID: -516565762841098559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_191
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a921590e277f60580800000000000000
+      internalID: -8861123144038673766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_192
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2f14d251e94e550800000000000000
+      internalID: 6189245601704702649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d852f105b7eaa00800000000000000
+      internalID: 769688170377088336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_194
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d83919def84710800000000000000
+      internalID: 1677871069580021836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_195
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a49de7baeaed20800000000000000
+      internalID: 3308714951942907508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_196
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d403828f288d30850800000000000000
+      internalID: 6342150757288521805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_197
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f58e18e90556b0800000000000000
+      internalID: -5308325693237104444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_198
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec794134a06ca2490800000000000000
+      internalID: -7770180459696973874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_199
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822089190813a3f80800000000000000
+      internalID: -8126128149368405464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_200
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea7f2edae287360800000000000000
+      internalID: 7167530131332247272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_201
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c67739563944b930800000000000000
+      internalID: 4158028853743679176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54f1ff0c81d5d340800000000000000
+      internalID: 4888043370073683038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_203
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06ec1bbd3d180670800000000000000
+      internalID: 8505080047258625549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_204
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4327742aee77510800000000000000
+      internalID: 1546967377775834348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_205
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b111b267e26460800000000000000
+      internalID: 7233598362573975564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_206
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055a0bc14cc61d540800000000000000
+      internalID: 5030921848300283216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Tileset_Nature by ThunderDove on DeviantArt_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9271f4b56a6aa00800000000000000
+      internalID: 767483697612401083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

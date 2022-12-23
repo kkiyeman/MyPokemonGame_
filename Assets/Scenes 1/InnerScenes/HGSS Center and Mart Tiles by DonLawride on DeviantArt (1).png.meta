@@ -1,0 +1,6685 @@
+fileFormatVersion: 2
+guid: 34fa6d25559986949bb4b0bbbdaf73bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3851167900075859915
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_0
+  - first:
+      213: 6358819579203336855
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_1
+  - first:
+      213: 3410036495735629050
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_2
+  - first:
+      213: 5722009920420655073
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_3
+  - first:
+      213: -5399353364958418405
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_4
+  - first:
+      213: 5546754214504499261
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_5
+  - first:
+      213: -5717108711832491477
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_6
+  - first:
+      213: -3125051573584239517
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_7
+  - first:
+      213: 4725986031496919338
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_8
+  - first:
+      213: -4294663900687122613
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_9
+  - first:
+      213: 2260483665142408268
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_10
+  - first:
+      213: 5113484129653325889
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_11
+  - first:
+      213: 7074306952109555477
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_12
+  - first:
+      213: -7974759290587133279
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_13
+  - first:
+      213: -6849014603950136075
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_14
+  - first:
+      213: -5110750677790515404
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_15
+  - first:
+      213: 1733303952551066849
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_16
+  - first:
+      213: 6627834731739510697
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_17
+  - first:
+      213: 6088456306010319590
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_18
+  - first:
+      213: -1840416576384380473
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_19
+  - first:
+      213: -6430495926421982573
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_20
+  - first:
+      213: -6261509312893094898
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_21
+  - first:
+      213: 5150190393204628744
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_22
+  - first:
+      213: 4085388826243889396
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_23
+  - first:
+      213: 6574147342996495388
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_24
+  - first:
+      213: -929523706800521013
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_25
+  - first:
+      213: 6649690478066554365
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_26
+  - first:
+      213: -6643224734379809613
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_27
+  - first:
+      213: 8212430425968209526
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_28
+  - first:
+      213: -9126989040491084476
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_29
+  - first:
+      213: 6389851228133934849
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_30
+  - first:
+      213: 1865436470283289067
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_31
+  - first:
+      213: -3116391109122043325
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_32
+  - first:
+      213: 6818529926541781144
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_33
+  - first:
+      213: -4943617476424870823
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_34
+  - first:
+      213: 4417901128553402260
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_35
+  - first:
+      213: -8688304808174383262
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_36
+  - first:
+      213: -3580339853296580665
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_37
+  - first:
+      213: -2284979752877883812
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_38
+  - first:
+      213: 6249603917231832263
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_39
+  - first:
+      213: 5707739053591890312
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_40
+  - first:
+      213: 1126958037457705080
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_41
+  - first:
+      213: 1420616938693782309
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_42
+  - first:
+      213: -6654566594197432375
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_43
+  - first:
+      213: -9185890040036894653
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_44
+  - first:
+      213: 2537335996221130575
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_45
+  - first:
+      213: -3825743423580262298
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_46
+  - first:
+      213: 6688437573500452538
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_47
+  - first:
+      213: -1271399640657926758
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_48
+  - first:
+      213: 3718121841689334058
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_49
+  - first:
+      213: -1714498940498160780
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_50
+  - first:
+      213: -537510633642245983
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_51
+  - first:
+      213: -53681535573796008
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_52
+  - first:
+      213: 2582490192383465338
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_53
+  - first:
+      213: -5736443943085889290
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_54
+  - first:
+      213: -6983382053961442371
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_55
+  - first:
+      213: -2326816995797616080
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_56
+  - first:
+      213: -5341996133787277964
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_57
+  - first:
+      213: -4132806582850154731
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_58
+  - first:
+      213: -4267699252953771521
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_59
+  - first:
+      213: -582923540470232708
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_60
+  - first:
+      213: 187911771897102128
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_61
+  - first:
+      213: -989688681593778838
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_62
+  - first:
+      213: 4041953174666348333
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_63
+  - first:
+      213: -6306796317989582867
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_64
+  - first:
+      213: 5634621376684564328
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_65
+  - first:
+      213: -753888667016187592
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_66
+  - first:
+      213: 5768851860471263636
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_67
+  - first:
+      213: -4518415087366219851
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_68
+  - first:
+      213: 3722721815622978451
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_69
+  - first:
+      213: 797588190948852677
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_70
+  - first:
+      213: 1097951504087540057
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_71
+  - first:
+      213: -6297537812605505301
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_72
+  - first:
+      213: -2124054444052923920
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_73
+  - first:
+      213: 858749350343943125
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_74
+  - first:
+      213: -1860498058468203985
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_75
+  - first:
+      213: -4988118436511890268
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_76
+  - first:
+      213: -5266908344396651526
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_77
+  - first:
+      213: 1488980466909430448
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_78
+  - first:
+      213: 1901166773201277615
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_79
+  - first:
+      213: -7808464247713722668
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_80
+  - first:
+      213: 4150573250996395553
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_81
+  - first:
+      213: -1684577931451923248
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_82
+  - first:
+      213: -2500422314849682318
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_83
+  - first:
+      213: -6834234400958110372
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_84
+  - first:
+      213: 156763280813803999
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_85
+  - first:
+      213: 8541040853909893673
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_86
+  - first:
+      213: -3228382588912434662
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_87
+  - first:
+      213: 2096254994582381067
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_88
+  - first:
+      213: -5521354109183664779
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_89
+  - first:
+      213: 5031867435728784773
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_90
+  - first:
+      213: -6949287660222001373
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_91
+  - first:
+      213: 885056064008496740
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_92
+  - first:
+      213: -2495091848919444348
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_93
+  - first:
+      213: 5811916932417838176
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_94
+  - first:
+      213: -2397152287642576050
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_95
+  - first:
+      213: 4430448600408816466
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_96
+  - first:
+      213: -8468205529021732417
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_97
+  - first:
+      213: -1436320479383569673
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_98
+  - first:
+      213: 3833991892659728574
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_99
+  - first:
+      213: -7014599370984147475
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_100
+  - first:
+      213: -7876902497126974916
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_101
+  - first:
+      213: -2992405223502362242
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_102
+  - first:
+      213: -2758136456552082267
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_103
+  - first:
+      213: 8994322813498463654
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_104
+  - first:
+      213: -8284089920653745993
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_105
+  - first:
+      213: 4475324501351333284
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_106
+  - first:
+      213: 1198469212608883653
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_107
+  - first:
+      213: 575169805519575614
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_108
+  - first:
+      213: 1805760998945677046
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_109
+  - first:
+      213: -7507636681119241620
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_110
+  - first:
+      213: 2391666136392719120
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_111
+  - first:
+      213: -4686930191161116947
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_112
+  - first:
+      213: -894588257376231631
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_113
+  - first:
+      213: 4941005636008694987
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_114
+  - first:
+      213: 7002328695123209119
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_115
+  - first:
+      213: -7767754229251853273
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_116
+  - first:
+      213: 1980615937208923063
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_117
+  - first:
+      213: 2643757600727874452
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_118
+  - first:
+      213: 7673295357555846796
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_119
+  - first:
+      213: 7713444568438993093
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_120
+  - first:
+      213: -3915776189132433614
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_121
+  - first:
+      213: 4647921059208173354
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_122
+  - first:
+      213: 3449651333931851015
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_123
+  - first:
+      213: -2421844257801991134
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_124
+  - first:
+      213: -4555331799586180144
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_125
+  - first:
+      213: 430241662511774553
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_126
+  - first:
+      213: 8308608900863719350
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_127
+  - first:
+      213: -6934955209670194752
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_128
+  - first:
+      213: 3567326888775651917
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_129
+  - first:
+      213: -8361508334389907324
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_130
+  - first:
+      213: 5710610087023133561
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_131
+  - first:
+      213: 8937054717107877157
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_132
+  - first:
+      213: 4581000152590417072
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_133
+  - first:
+      213: 7668180778571440631
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_134
+  - first:
+      213: 2174041077496601429
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_135
+  - first:
+      213: 369176503611702457
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_136
+  - first:
+      213: 7485261388094893233
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_137
+  - first:
+      213: -2751795688037678028
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_138
+  - first:
+      213: 8210032948390399054
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_139
+  - first:
+      213: -6371640362638998230
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_140
+  - first:
+      213: -1317676541594224997
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_141
+  - first:
+      213: 5998648212916939100
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_142
+  - first:
+      213: -8391702900197575395
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_143
+  - first:
+      213: -7473613671808743016
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_144
+  - first:
+      213: -8809540657952340035
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_145
+  - first:
+      213: 4118755340054969248
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_146
+  - first:
+      213: 9038331331728683614
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_147
+  - first:
+      213: 2950050862765331271
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_148
+  - first:
+      213: 859294975112655486
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_149
+  - first:
+      213: 1682441278737772332
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_150
+  - first:
+      213: -2505752552777931347
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_151
+  - first:
+      213: -3645364413468874195
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_152
+  - first:
+      213: -3401471876669192852
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_153
+  - first:
+      213: 7566404956748028609
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_154
+  - first:
+      213: -1241936025497213276
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_155
+  - first:
+      213: 7512045813446745934
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_156
+  - first:
+      213: -2547583789469068481
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_157
+  - first:
+      213: 1555989461203346965
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_158
+  - first:
+      213: -8615710046043907244
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_159
+  - first:
+      213: 3530551521383464186
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_160
+  - first:
+      213: -2400069819396659514
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_161
+  - first:
+      213: 898448713682073510
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_162
+  - first:
+      213: -2403157146919322417
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_163
+  - first:
+      213: -1448938987068738630
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_164
+  - first:
+      213: -7629350034558646629
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_165
+  - first:
+      213: -613153804444298439
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_166
+  - first:
+      213: 3823575366964655870
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_167
+  - first:
+      213: 7111450208654400963
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_168
+  - first:
+      213: -3824547016589399547
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_169
+  - first:
+      213: 6260706464156257954
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_170
+  - first:
+      213: -918414820906486244
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_171
+  - first:
+      213: -7450145766020999498
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_172
+  - first:
+      213: 3858852986882210782
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_173
+  - first:
+      213: -4649514552154002242
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_174
+  - first:
+      213: 4749703868520052112
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_175
+  - first:
+      213: 1411959999140796148
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_176
+  - first:
+      213: 2441221047438148124
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_177
+  - first:
+      213: 7611481871656031617
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_178
+  - first:
+      213: -8517220436267589907
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_179
+  - first:
+      213: -588366962714688
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_180
+  - first:
+      213: -4155810537256237162
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_181
+  - first:
+      213: 2783131180136554182
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_182
+  - first:
+      213: -3021835324663023810
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_183
+  - first:
+      213: -3228454070343016007
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_184
+  - first:
+      213: 3601021347605467006
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_185
+  - first:
+      213: -3708947789331429733
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_186
+  - first:
+      213: -8212179809204517275
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_187
+  - first:
+      213: -6789297544843725342
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_188
+  - first:
+      213: -1032595474053083181
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_189
+  - first:
+      213: -4448407752920979368
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_190
+  - first:
+      213: -7528152636551465730
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_191
+  - first:
+      213: 676232463173997898
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_192
+  - first:
+      213: 2723572589130192666
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_193
+  - first:
+      213: 619974428154377032
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_194
+  - first:
+      213: 5501308943018058368
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_195
+  - first:
+      213: 6137426809193601491
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_196
+  - first:
+      213: 6429389853712287377
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_197
+  - first:
+      213: -2320192230707227703
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_198
+  - first:
+      213: -377928437412846124
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_199
+  - first:
+      213: 7259412886902788329
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_200
+  - first:
+      213: 3811751088162830028
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_201
+  - first:
+      213: -2672868390074886290
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_202
+  - first:
+      213: 7587967787123913348
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_203
+  - first:
+      213: -8195461866663994711
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_204
+  - first:
+      213: -3129584399169558021
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_205
+  - first:
+      213: -3524536575545221671
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_206
+  - first:
+      213: 1939091898730251591
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_207
+  - first:
+      213: 731681713087176861
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_208
+  - first:
+      213: 6536715270222519927
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_209
+  - first:
+      213: 3883811757025998768
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_210
+  - first:
+      213: 4060127810904969619
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_211
+  - first:
+      213: 3734149662014888395
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_212
+  - first:
+      213: 4910363825223008352
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_213
+  - first:
+      213: 2118617853210996310
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_214
+  - first:
+      213: 2405686768543421573
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_215
+  - first:
+      213: 380906357923367584
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_216
+  - first:
+      213: -6373670686304518680
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_217
+  - first:
+      213: -6620523405252982528
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_218
+  - first:
+      213: 7861059627768678841
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_219
+  - first:
+      213: -3758478369987909283
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_220
+  - first:
+      213: -3483310994406095463
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_221
+  - first:
+      213: 1299040509137191095
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_222
+  - first:
+      213: 8704871599386728834
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_223
+  - first:
+      213: -5852379074938018676
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_224
+  - first:
+      213: 8241971686506063315
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_225
+  - first:
+      213: -3201904582689854854
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_226
+  - first:
+      213: -3363190753532304090
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_227
+  - first:
+      213: 1010667388574704622
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_228
+  - first:
+      213: 645021205183696428
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_229
+  - first:
+      213: -1459518680886568400
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_230
+  - first:
+      213: -7289039827919952806
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_231
+  - first:
+      213: 4427100853194549781
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_232
+  - first:
+      213: 1846790607268654524
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_233
+  - first:
+      213: 1270907089197759503
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_234
+  - first:
+      213: 4505210870142527846
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_235
+  - first:
+      213: 3147706458274984576
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_236
+  - first:
+      213: -7769096966185240800
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_237
+  - first:
+      213: -142334999239015236
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_238
+  - first:
+      213: -9134995444059415981
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_239
+  - first:
+      213: 8664767488895303790
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_240
+  - first:
+      213: 701443069653754787
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_241
+  - first:
+      213: -2600222543143050559
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_242
+  - first:
+      213: -831859565779049183
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_243
+  - first:
+      213: 3769388047448057195
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_244
+  - first:
+      213: -3308543296616501731
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_245
+  - first:
+      213: 682331983387821066
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_246
+  - first:
+      213: -730295480922572699
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_247
+  - first:
+      213: -3621242015211323807
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_248
+  - first:
+      213: 7420574602657174089
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_249
+  - first:
+      213: -1398462113897979665
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_250
+  - first:
+      213: -5504390308957444077
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_251
+  - first:
+      213: 3604912586081376851
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_252
+  - first:
+      213: 6652891117619096967
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_253
+  - first:
+      213: -419950551408825334
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_254
+  - first:
+      213: -4735306005355613595
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_255
+  - first:
+      213: 5866311332193349395
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_256
+  - first:
+      213: 6019062894853558629
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_257
+  - first:
+      213: 4296322808089699052
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_258
+  - first:
+      213: 6186615821697153232
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_259
+  - first:
+      213: 712473965809348073
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_260
+  - first:
+      213: -3308420696003122099
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_261
+  - first:
+      213: 1438692238683671148
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_262
+  - first:
+      213: -2261590030777423912
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_263
+  - first:
+      213: -7014697545473086687
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_264
+  - first:
+      213: -6738432005422685259
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_265
+  - first:
+      213: 4942193365885837181
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_266
+  - first:
+      213: 787139916908665137
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_267
+  - first:
+      213: 3253185128061101313
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_268
+  - first:
+      213: 3043026787571331232
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_269
+  - first:
+      213: 7017948382145871807
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_270
+  - first:
+      213: 2866202800799345945
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_271
+  - first:
+      213: 1881397686083675471
+    second: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_272
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf986efcc8127530800000000000000
+      internalID: 3851167900075859915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab63187b01f3850800000000000000
+      internalID: 6358819579203336855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4a07f2022e25f20800000000000000
+      internalID: 3410036495735629050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef2fe3c4b9a86f40800000000000000
+      internalID: 5722009920420655073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ae7d8b8b4a115b0800000000000000
+      internalID: -5399353364958418405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3801f3f1970afc40800000000000000
+      internalID: 5546754214504499261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aeee8caefb8a0b0800000000000000
+      internalID: -5717108711832491477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3646cbba62691a4d0800000000000000
+      internalID: -3125051573584239517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29f4dc9143169140800000000000000
+      internalID: 4725986031496919338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fb9d9bfe94664c0800000000000000
+      internalID: -4294663900687122613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44e269bae9de5f10800000000000000
+      internalID: 2260483665142408268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140859839beb6f640800000000000000
+      internalID: 5113484129653325889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ff09011bcfc2260800000000000000
+      internalID: 7074306952109555477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aace436da6f35190800000000000000
+      internalID: -7974759290587133279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e61e518963f0a0800000000000000
+      internalID: -6849014603950136075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 584
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f95b22657f219b0800000000000000
+      internalID: -5110750677790515404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec369be2ceed0810800000000000000
+      internalID: 1733303952551066849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7745f929ccafb50800000000000000
+      internalID: 6627834731739510697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea6b3690ca8e7450800000000000000
+      internalID: 6088456306010319590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c15eddefd68576e0800000000000000
+      internalID: -1840416576384380473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3927500760a42c6a0800000000000000
+      internalID: -6430495926421982573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04f43f6476aa19a0800000000000000
+      internalID: -6261509312893094898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d579030e6297740800000000000000
+      internalID: 5150190393204628744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8fd9dfd7732b830800000000000000
+      internalID: 4085388826243889396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c52685d201c3b50800000000000000
+      internalID: 6574147342996495388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c9dd0d1ba913f0800000000000000
+      internalID: -929523706800521013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5547b1242784c50800000000000000
+      internalID: 6649690478066554365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e3382d468ec3a0800000000000000
+      internalID: -6643224734379809613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ee17a06f968f170800000000000000
+      internalID: 8212430425968209526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44545a413db665180800000000000000
+      internalID: -9126989040491084476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107448c46df4da850800000000000000
+      internalID: 6389851228133934849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be14b42169c53e910800000000000000
+      internalID: 1865436470283289067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342589f2cca50c4d0800000000000000
+      internalID: -3116391109122043325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898a4e197d840ae50800000000000000
+      internalID: 6818529926541781144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954584cf81eb46bb0800000000000000
+      internalID: -4943617476424870823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f093c5ba98f4d30800000000000000
+      internalID: 4417901128553402260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f82704fc0fc6780800000000000000
+      internalID: -8688304808174383262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c745157fd3105ec0800000000000000
+      internalID: -3580339853296580665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ef0c6650f1a40e0800000000000000
+      internalID: -2284979752877883812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc3e71a6ad0bb650800000000000000
+      internalID: 6249603917231832263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88908f7ad66f53f40800000000000000
+      internalID: 5707739053591890312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878107b3d52c3af00800000000000000
+      internalID: 1126958037457705080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52beeb8349b07b310800000000000000
+      internalID: 1420616938693782309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c75ea2a0fa36a3a0800000000000000
+      internalID: -6654566594197432375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485dc17da9258080800000000000000
+      internalID: -9185890040036894653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47829a25ad663320800000000000000
+      internalID: 2537335996221130575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66036bb30aa38eac0800000000000000
+      internalID: -3825743423580262298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 552
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abebed6498a12dc50800000000000000
+      internalID: 6688437573500452538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95660353c41b5ee0800000000000000
+      internalID: -1271399640657926758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2193859d1c699330800000000000000
+      internalID: 3718121841689334058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473d2d32c40e438e0800000000000000
+      internalID: -1714498940498160780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a042c23de06a88f0800000000000000
+      internalID: -537510633642245983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b50258de8414ff0800000000000000
+      internalID: -53681535573796008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7752f8b529d6d320800000000000000
+      internalID: 2582490192383465338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ac6270ae0460b0800000000000000
+      internalID: -5736443943085889290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb5ace750b061f90800000000000000
+      internalID: -6983382053961442371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a3424354c75bfd0800000000000000
+      internalID: -2326816995797616080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4756916c1da6dd5b0800000000000000
+      internalID: -5341996133787277964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f02d73f4255a6c0800000000000000
+      internalID: -4132806582850154731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff19d73042616c4c0800000000000000
+      internalID: -4267699252953771521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c790f0fd02a09e7f0800000000000000
+      internalID: -582923540470232708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f7a0dc2c89b9200800000000000000
+      internalID: 187911771897102128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dc06f336be342f0800000000000000
+      internalID: -989688681593778838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 536
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2700c64ff6e71830800000000000000
+      internalID: 4041953174666348333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de74d73e922c978a0800000000000000
+      internalID: -6306796317989582867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1b11e942323e40800000000000000
+      internalID: 5634621376684564328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831be4a6046a985f0800000000000000
+      internalID: -753888667016187592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491bd31d3341f0050800000000000000
+      internalID: 5768851860471263636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b755c9ea6d5b41c0800000000000000
+      internalID: -4518415087366219851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b0ec974c3c9a330800000000000000
+      internalID: 3722721815622978451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c38d8edb3a911b00800000000000000
+      internalID: 797588190948852677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9516eb56315bc3f00800000000000000
+      internalID: 1097951504087540057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0fe08a9b6aa98a0800000000000000
+      internalID: -6297537812605505301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9b2a2acb7d582e0800000000000000
+      internalID: -2124054444052923920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3295afbf3eaeb00800000000000000
+      internalID: 858749350343943125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e2b78fde2e26e0800000000000000
+      internalID: -1860498058468203985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4c12ec5b4a6cab0800000000000000
+      internalID: -4988118436511890268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af362bb14ce28e6b0800000000000000
+      internalID: -5266908344396651526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2c1af78dbe9a410800000000000000
+      internalID: 1488980466909430448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 520
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2107f7b1d426a10800000000000000
+      internalID: 1901166773201277615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de8fa14323c2a390800000000000000
+      internalID: -7808464247713722668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ed0ef816cc99930800000000000000
+      internalID: 4150573250996395553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4885feb4d2f98e0800000000000000
+      internalID: -1684577931451923248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cbce60727bc4dd0800000000000000
+      internalID: -2500422314849682318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55232b850ce721a0800000000000000
+      internalID: -6834234400958110372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd94bb29f5fec2200800000000000000
+      internalID: 156763280813803999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922f56d776fd78670800000000000000
+      internalID: 8541040853909893673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1281dcd32b7233d0800000000000000
+      internalID: -3228382588912434662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a8b6afc4671d10800000000000000
+      internalID: 2096254994582381067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd6fae0b53063b0800000000000000
+      internalID: -5521354109183664779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4877d5c8c4d540800000000000000
+      internalID: 5031867435728784773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f467221bb2f8f90800000000000000
+      internalID: -6949287660222001373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466288d0dc9584c00800000000000000
+      internalID: 885056064008496740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4841f27de27af5dd0800000000000000
+      internalID: -2495091848919444348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd7dc38a318a050800000000000000
+      internalID: 5811916932417838176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 504
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b9c8ee1ba9bbed0800000000000000
+      internalID: -2397152287642576050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b7efe478d1c7d30800000000000000
+      internalID: 4430448600408816466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb929a510f3ea7a80800000000000000
+      internalID: -8468205529021732417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa39ba422a211ce0800000000000000
+      internalID: -1436320479383569673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0f5b12053153530800000000000000
+      internalID: 3833991892659728574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5bfca790327ae90800000000000000
+      internalID: -7014599370984147475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3afb5899ee9fa290800000000000000
+      internalID: -7876902497126974916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e794e1dbd47d876d0800000000000000
+      internalID: -2992405223502362242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a49829818129b9d0800000000000000
+      internalID: -2758136456552082267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a594c5e1f042dc70800000000000000
+      internalID: 8994322813498463654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_105
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b02a00bb10090d80800000000000000
+      internalID: -8284089920653745993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_106
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adf5a53ceb8b1e30800000000000000
+      internalID: 4475324501351333284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6bcb2661d1a010800000000000000
+      internalID: 1198469212608883653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_108
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a568704e96bf700800000000000000
+      internalID: 575169805519575614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe596baf0a5f0910800000000000000
+      internalID: 1805760998945677046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ae13737348fc790800000000000000
+      internalID: -7507636681119241620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bd401fda7e03120800000000000000
+      internalID: 2391666136392719120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b9c4d2dda4feb0800000000000000
+      internalID: -4686930191161116947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f9ada38b8c593f0800000000000000
+      internalID: -894588257376231631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45087827af19440800000000000000
+      internalID: 4941005636008694987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9be75929d44d2160800000000000000
+      internalID: 7002328695123209119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b7ee0fa4633490800000000000000
+      internalID: -7767754229251853273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b0dd73bf8c7b10800000000000000
+      internalID: 1980615937208923063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_118
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bbf97d78380b420800000000000000
+      internalID: 2643757600727874452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_119
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e25cb09750d7a60800000000000000
+      internalID: 7673295357555846796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_120
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f878a7f8ab0b60800000000000000
+      internalID: 7713444568438993093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23714da7d4e58a9c0800000000000000
+      internalID: -3915776189132433614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_122
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27192ed39bb08040800000000000000
+      internalID: 4647921059208173354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dd5f57c9f9fdf20800000000000000
+      internalID: 3449651333931851015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c8460aa71e36ed0800000000000000
+      internalID: -2421844257801991134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_125
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ff9b0dd538c0c0800000000000000
+      internalID: -4555331799586180144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_126
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b7695338688f500800000000000000
+      internalID: 430241662511774553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b771a146cb1e4370800000000000000
+      internalID: 8308608900863719350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c90d52daf612cf90800000000000000
+      internalID: -6934955209670194752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d421c23a7e0b18130800000000000000
+      internalID: 3567326888775651917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480b8369874f5fb80800000000000000
+      internalID: -8361508334389907324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973c6c73e99204f40800000000000000
+      internalID: 5710610087023133561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525b1772aebc60c70800000000000000
+      internalID: 8937054717107877157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc792b1e5bf29f30800000000000000
+      internalID: 4581000152590417072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_134
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1aa345ac9da6a60800000000000000
+      internalID: 7668180778571440631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bda4767debb2e10800000000000000
+      internalID: 2174041077496601429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_136
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc3235f2149f1500800000000000000
+      internalID: 369176503611702457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce758e29df0e760800000000000000
+      internalID: 7485261388094893233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_138
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4340010c668afc9d0800000000000000
+      internalID: -2751795688037678028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_139
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c001bc775efe170800000000000000
+      internalID: 8210032948390399054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_140
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a258c5c39d26397a0800000000000000
+      internalID: -6371640362638998230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_141
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b963961ba2ca6bde0800000000000000
+      internalID: -1317676541594224997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_142
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 456
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59227774ca7f3350800000000000000
+      internalID: 5998648212916939100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15bb156caeaa8b80800000000000000
+      internalID: -8391702900197575395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_144
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899465f56f3684890800000000000000
+      internalID: -7473613671808743016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7c36052793eb580800000000000000
+      internalID: -8809540657952340035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab38b0e822c82930800000000000000
+      internalID: 4118755340054969248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52b8f5857a9e6d70800000000000000
+      internalID: 9038331331728683614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743567031afa0f820800000000000000
+      internalID: 2950050862765331271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e723ed42a34dceb00800000000000000
+      internalID: 859294975112655486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f6e96dd6b395710800000000000000
+      internalID: 1682441278737772332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a4ac4457c93dd0800000000000000
+      internalID: -2505752552777931347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a66524160196dc0800000000000000
+      internalID: -3645364413468874195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_153
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65c6a5995b8bc0d0800000000000000
+      internalID: -3401471876669192852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_154
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca98b93835410960800000000000000
+      internalID: 7566404956748028609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_155
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66a7ec3c1c3cee0800000000000000
+      internalID: -1241936025497213276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_156
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f14f6edd5204860800000000000000
+      internalID: 7512045813446745934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3317298a0a25acd0800000000000000
+      internalID: -2547583789469068481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_158
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e645cb2cf79510800000000000000
+      internalID: 1555989461203346965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bd9c17c59de6880800000000000000
+      internalID: -8615710046043907244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_160
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcb64d27e90ff030800000000000000
+      internalID: 3530551521383464186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e9b2273d31bed0800000000000000
+      internalID: -2400069819396659514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a73deb485ee77c00800000000000000
+      internalID: 898448713682073510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccbe6eae4546aed0800000000000000
+      internalID: -2403157146919322417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_164
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3bd860ba554ebe0800000000000000
+      internalID: -1448938987068738630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96840bc09a1f1690800000000000000
+      internalID: -7629350034558646629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_166
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9331b6d0dd3ad77f0800000000000000
+      internalID: -613153804444298439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6bcdfb981101530800000000000000
+      internalID: 3823575366964655870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd19b46942f0b260800000000000000
+      internalID: 7111450208654400963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_169
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa86170ca7ceac0800000000000000
+      internalID: -3824547016589399547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae8607cb5f72e650800000000000000
+      internalID: 6260706464156257954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_171
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c163a6b16922143f0800000000000000
+      internalID: -918414820906486244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6107bf5e3cb9890800000000000000
+      internalID: -7450145766020999498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_173
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 424
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbb193b8566d8530800000000000000
+      internalID: 3858852986882210782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebce9d4262b997fb0800000000000000
+      internalID: -4649514552154002242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_175
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095bf6fd0865ae140800000000000000
+      internalID: 4749703868520052112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_176
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f619d9632a489310800000000000000
+      internalID: 1411959999140796148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_177
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1202c6cb95f0e120800000000000000
+      internalID: 2441221047438148124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18512665f6a61a960800000000000000
+      internalID: 7611481871656031617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee929ea321ccc980800000000000000
+      internalID: -8517220436267589907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_180
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7903422e8edfff0800000000000000
+      internalID: -588366962714688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974405b5589356c0800000000000000
+      internalID: -4155810537256237162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_182
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce5a5b001baf9620800000000000000
+      internalID: 2783131180136554182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37bbb758c84016d0800000000000000
+      internalID: -3021835324663023810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_184
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b16a8bc02a3233d0800000000000000
+      internalID: -3228454070343016007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f4f9c26d569f130800000000000000
+      internalID: 3601021347605467006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_186
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b960e6ee2ab278cc0800000000000000
+      internalID: -3708947789331429733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_187
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566cab839f9780e80800000000000000
+      internalID: -8212179809204517275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_188
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5782daad197c1a0800000000000000
+      internalID: -6789297544843725342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc36423eb7ba1f0800000000000000
+      internalID: -1032595474053083181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_190
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8582d07a7b41442c0800000000000000
+      internalID: -4448407752920979368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_191
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4fd6b1011a68790800000000000000
+      internalID: -7528152636551465730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45d219a7d5726900800000000000000
+      internalID: 676232463173997898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_193
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a179817f6d21cc520800000000000000
+      internalID: 2723572589130192666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b7f725779a9800800000000000000
+      internalID: 619974428154377032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_195
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08265442653985c40800000000000000
+      internalID: 5501308943018058368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_196
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d991fc5a258c2550800000000000000
+      internalID: 6137426809193601491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1968501f108c93950800000000000000
+      internalID: 6429389853712287377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_198
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3131685750dcfd0800000000000000
+      internalID: -2320192230707227703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_199
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d52d79a61451caf0800000000000000
+      internalID: -377928437412846124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_200
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0dbb10f8d9eb460800000000000000
+      internalID: 7259412886902788329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_201
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6772e4b6f06e430800000000000000
+      internalID: 3811751088162830028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_202
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 392
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6757365c5018ead0800000000000000
+      internalID: -2672868390074886290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482b0a6ef70ed4960800000000000000
+      internalID: 7587967787123913348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_204
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9b3b8aded34e80800000000000000
+      internalID: -8195461866663994711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e4e8f19b7194d0800000000000000
+      internalID: -3129584399169558021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_206
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd51c888a4561fc0800000000000000
+      internalID: -3524536575545221671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_207
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74587a2eec909ea10800000000000000
+      internalID: 1939091898730251591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_208
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e53534a4772a00800000000000000
+      internalID: 731681713087176861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_209
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e1c7fb7e317ba50800000000000000
+      internalID: 6536715270222519927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_210
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b73508373216e530800000000000000
+      internalID: 3883811757025998768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_211
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391dca78bb8785830800000000000000
+      internalID: 4060127810904969619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_212
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9da8e455d52d330800000000000000
+      internalID: 3734149662014888395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060885002ed152440800000000000000
+      internalID: 4910363825223008352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_214
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e217b66b7d66d10800000000000000
+      internalID: 2118617853210996310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_215
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58453efbe57b26120800000000000000
+      internalID: 2405686768543421573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_216
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aac5bc7050494500800000000000000
+      internalID: 380906357923367584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edbf7ba74c2c87a0800000000000000
+      internalID: -6373670686304518680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_218
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098cba3a0d2f14a0800000000000000
+      internalID: -6620523405252982528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_219
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9015fe418181d60800000000000000
+      internalID: 7861059627768678841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_220
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a1e4f5d337dbc0800000000000000
+      internalID: -3758478369987909283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_221
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99546302b1bc8afc0800000000000000
+      internalID: -3483310994406095463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_222
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b007ffd57e170210800000000000000
+      internalID: 1299040509137191095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_223
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28915d8699aedc870800000000000000
+      internalID: 8704871599386728834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_224
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84e3631d3c28cea0800000000000000
+      internalID: -5852379074938018676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_225
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5650fb49d516270800000000000000
+      internalID: 8241971686506063315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_226
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a63181fbc8093d0800000000000000
+      internalID: -3201904582689854854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_227
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62524df14db8351d0800000000000000
+      internalID: -3363190753532304090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_228
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3211a92ac960e00800000000000000
+      internalID: 1010667388574704622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_229
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e819f5e5393f800800000000000000
+      internalID: 645021205183696428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_230
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a95ba1e7fbebbe0800000000000000
+      internalID: -1459518680886568400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54282f35e028da90800000000000000
+      internalID: -7289039827919952806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_232
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a6d7b25c8307d30800000000000000
+      internalID: 4427100853194549781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_233
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbda6c8c54e11a910800000000000000
+      internalID: 1846790607268654524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_234
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c782a934b23a110800000000000000
+      internalID: 1270907089197759503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_235
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e211ba69b58e30800000000000000
+      internalID: 4505210870142527846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_236
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082fea6b856eeab20800000000000000
+      internalID: 3147706458274984576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_237
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b6f0c87f9e2490800000000000000
+      internalID: -7769096966185240800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_238
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4c0438213560ef0800000000000000
+      internalID: -142334999239015236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_239
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ad60cfa0af93180800000000000000
+      internalID: -9134995444059415981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_240
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6045fc8f107f3870800000000000000
+      internalID: 8664767488895303790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_241
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a32fd461c60cb900800000000000000
+      internalID: 701443069653754787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2eef2af572aebd0800000000000000
+      internalID: -2600222543143050559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_243
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125aabed124a474f0800000000000000
+      internalID: -831859565779049183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65aeb4457e8f4430800000000000000
+      internalID: 3769388047448057195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_245
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e6c21b661b512d0800000000000000
+      internalID: -3308543296616501731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_246
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0408b0e251287900800000000000000
+      internalID: 682331983387821066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_247
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568798e11287dd5f0800000000000000
+      internalID: -730295480922572699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_248
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16efb95c293cebdc0800000000000000
+      internalID: -3621242015211323807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_249
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9429aa4094d2bf660800000000000000
+      internalID: 7420574602657174089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_250
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e445ed1aa79ce0800000000000000
+      internalID: -1398462113897979665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_251
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3182d717d2a7c93b0800000000000000
+      internalID: -5504390308957444077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_252
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a17bbb5e8370230800000000000000
+      internalID: 3604912586081376851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_253
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78da9031931d35c50800000000000000
+      internalID: 6652891117619096967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_254
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2c00d2390c2af0800000000000000
+      internalID: -419950551408825334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5623100e640d84eb0800000000000000
+      internalID: -4735306005355613595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_256
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fab395313596150800000000000000
+      internalID: 5866311332193349395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_257
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5611b7000d1088350800000000000000
+      internalID: 6019062894853558629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_258
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce26890c4da9f9b30800000000000000
+      internalID: 4296322808089699052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_259
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8f11ecf464bd550800000000000000
+      internalID: 6186615821697153232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_260
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eda7cb0c4733e900800000000000000
+      internalID: 712473965809348073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_261
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cee2fd7e02612d0800000000000000
+      internalID: -3308420696003122099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_262
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a0ad3f7f247f310800000000000000
+      internalID: 1438692238683671148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_263
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d762f379d73d90e0800000000000000
+      internalID: -2261590030777423912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_264
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba5437fb9c6ae90800000000000000
+      internalID: -7014697545473086687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_265
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b368a5fac74c72a0800000000000000
+      internalID: -6738432005422685259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_266
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fdae07ea2369440800000000000000
+      internalID: 4942193365885837181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_267
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1391fdf759b7cea00800000000000000
+      internalID: 787139916908665137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_268
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056aaa43a2a52d20800000000000000
+      internalID: 3253185128061101313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_269
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0ff2b9db00b3a20800000000000000
+      internalID: 3043026787571331232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_270
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbff4d1fed2c46160800000000000000
+      internalID: 7017948382145871807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_271
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91defd3f24cc6c720800000000000000
+      internalID: 2866202800799345945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HGSS Center and Mart Tiles by DonLawride on DeviantArt (1)_272
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 296
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4562483a311c1a10800000000000000
+      internalID: 1881397686083675471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
