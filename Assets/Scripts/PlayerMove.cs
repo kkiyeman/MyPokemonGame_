@@ -35,7 +35,7 @@ public class PlayerMove : MonoBehaviour
 
     public AudioSource walkingSound;
 
-     public MapChange mapchange;
+     
 
     GameObject instanceplayer;
 
@@ -48,7 +48,7 @@ public class PlayerMove : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if (stop)
         {
@@ -169,15 +169,7 @@ public class PlayerMove : MonoBehaviour
         stop = true;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        mapchange = collision.GetComponent<MapChange>();
-        instance.StopMove();
-        StartCoroutine("Enter");
-        //StartCoroutine(UIManager.instance.FadeIn());
-        //SceneExecutor.instance.SceneChange(mapchange);
-        // AudioManager.instance.BgmPlay();
-    }
+   
 
     public IEnumerator Enter()
     {
@@ -188,7 +180,7 @@ public class PlayerMove : MonoBehaviour
         }
         //yield return new WaitForSeconds(1.2f);
         
-        SceneExecutor.instance.SceneChange(mapchange);
+       
        
         Destroy(gameObject);
         

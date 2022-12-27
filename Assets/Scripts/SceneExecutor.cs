@@ -4,24 +4,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+public enum Scene
+{
+    MapScene = 0,
+    Battle = 1
 
+}
 
 public class SceneExecutor : MonoBehaviour
 {
-    public enum Scene
-    {
-        MapScene = 0,
-        PokemonCenter = 1,
-        MartScene = 2,
-        Houses = 3,
-        House2 = 4,
-        House3 = 5,
-        House4 = 6
-        
-    }
+  
 
     public static SceneExecutor instance;
-    public MapChange mapchange;
+    
     public string beforemapname;
     public string nowmapname;
 
@@ -57,12 +52,11 @@ public class SceneExecutor : MonoBehaviour
 
     }
 
-    public void SceneChange(MapChange mapchange)
+    public void SceneChange()
     {
         
-        SceneExecutor.instance.mapchange = mapchange;
-        SceneExecutor.instance.beforemapname = mapchange.nowmapname;
-        SceneExecutor.instance.nowmapname = mapchange.targetmapname;
+        
+       
         SceneManager.LoadScene(SceneExecutor.instance.nowmapname);
 
         

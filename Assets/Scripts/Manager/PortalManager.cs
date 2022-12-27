@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class PortalManager : MonoBehaviour
 {
     public static PortalManager instance = null;
@@ -20,6 +21,12 @@ public class PortalManager : MonoBehaviour
     }
     #endregion
 
+    public Dictionary<Place,Places> portals;
+
+    public void InitPortals()
+    {
+        
+    }
     public GameObject LoadEnters(string scene)
     {
         Object enterpoint = Resources.Load($"Portals/{scene}/EnterPoints");
@@ -38,10 +45,11 @@ public class PortalManager : MonoBehaviour
 
 
 
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        InitPortals();
     }
 
     // Update is called once per frame

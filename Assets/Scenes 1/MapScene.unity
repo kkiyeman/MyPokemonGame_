@@ -166,4 +166,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f84f91decf1f43d44b49a6caf056c524, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  a: MapScene

@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class MapScene : MonoBehaviour
 {
-    public string a = "MapScene";
+    
     
     // Start is called before the first frame update
     void Awake()
     {
 
+        string scenename = Scene.MapScene.ToString();
 
         ObjectManager objectmanager = ObjectManager.GetInstance();
         objectmanager.CreateCharacter();
@@ -25,21 +26,22 @@ public class MapScene : MonoBehaviour
 
         UIManager uimanager = UIManager.GetInstance();
         uimanager.SetEventSystem();
-        uimanager.OpenUI($"UI{a}");
+        uimanager.OpenUI($"UI{scenename}");
 
-        MapManager mapmanager = MapManager.GetInstance();
-        mapmanager.LoadMap(a);
-        mapmanager.LoadWall(a);
+        PlaceManager placemanager = PlaceManager.GetInstance();
+        
+
+        Object map = Resources.Load($"Maps/MapScene/TileMaps");
+        GameObject maps = (GameObject)Instantiate(map);
+        Object wall = Resources.Load($"Maps/MapScene/NoPassLayers");
+        GameObject walls = (GameObject)Instantiate(wall);
 
         PortalManager portalmanager = PortalManager.GetInstance();
-        portalmanager.LoadEnters(a);
-        portalmanager.LoadSumms(a);
+        portalmanager.LoadEnters(scenename);
+        portalmanager.LoadSumms(scenename);
 
         SceneExecutor sceneexcutor = SceneExecutor.GetInstance();
 
-       
-        
-        
 
     }
 
