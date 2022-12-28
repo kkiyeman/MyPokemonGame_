@@ -102,7 +102,7 @@ Transform:
   - {fileID: 6463866075814871426}
   - {fileID: 409064957063492632}
   m_Father: {fileID: 8484137847884739183}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1005568603553106655
 GameObject:
@@ -1473,7 +1473,7 @@ Transform:
   m_Children:
   - {fileID: 4396831342196213497}
   m_Father: {fileID: 8484137847884739183}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!156049354 &633641236703158985
 Grid:
@@ -3647,7 +3647,7 @@ Transform:
   m_Children:
   - {fileID: 4809076619129294557}
   m_Father: {fileID: 8484137847884739183}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!156049354 &145148852728437465
 Grid:
@@ -3747,7 +3747,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8484137847884739183}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1438209733166783143
 BoxCollider2D:
@@ -3805,7 +3805,7 @@ Transform:
   m_Children:
   - {fileID: 1749490408665524694}
   m_Father: {fileID: 8484137847884739183}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!156049354 &678098230753592727
 Grid:
@@ -3904,7 +3904,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 8484137847884739183}
-  m_RootOrder: 0
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &3957335494798370505
 GameObject:
@@ -3936,7 +3936,7 @@ Transform:
   m_LocalScale: {x: 0.8, y: 0.78, z: 0.8}
   m_Children: []
   m_Father: {fileID: 8484137847884739183}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &6951680189038360721
 SpriteRenderer:
@@ -4309,6 +4309,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8484137847884739183}
+  - component: {fileID: 2027679788041918530}
   m_Layer: 0
   m_Name: House3
   m_TagString: Untagged
@@ -4327,16 +4328,32 @@ Transform:
   m_LocalPosition: {x: -209.77151, y: 6.0876865, z: 0.55090296}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 9119022849346008566}
   - {fileID: 103688382639804128}
   - {fileID: 1090917902790163542}
   - {fileID: 4682973438794843273}
   - {fileID: 612393965452799821}
-  - {fileID: 5613861615768112576}
   - {fileID: 4502365723625226234}
+  - {fileID: 9119022849346008566}
+  - {fileID: 5613861615768112576}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2027679788041918530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6593158362293910115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0b69234f6f05b4faba8a2209c111a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  placeName: TownHouse3
+  index: 4
+  entrance: {fileID: 9119022849346008566}
+  exit: {fileID: 5613861615768112576}
 --- !u!1 &6725174804589979723
 GameObject:
   m_ObjectHideFlags: 0

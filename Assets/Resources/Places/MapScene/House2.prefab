@@ -1989,7 +1989,7 @@ Transform:
   m_LocalScale: {x: 0.8, y: 0.78, z: 0.8}
   m_Children: []
   m_Father: {fileID: 4882113254494287295}
-  m_RootOrder: 7
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5314508885598882030
 SpriteRenderer:
@@ -2098,7 +2098,7 @@ Transform:
   m_Children:
   - {fileID: 2709819683337663687}
   m_Father: {fileID: 4882113254494287295}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!156049354 &2996285479205282396
 Grid:
@@ -2142,7 +2142,7 @@ Transform:
   m_LocalScale: {x: 0.8, y: 0.78, z: 0.8}
   m_Children: []
   m_Father: {fileID: 4882113254494287295}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2599648189616535239
 SpriteRenderer:
@@ -3809,7 +3809,7 @@ Transform:
   m_Children:
   - {fileID: 4249780928552086545}
   m_Father: {fileID: 4882113254494287295}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!156049354 &6668991529906312680
 Grid:
@@ -3851,7 +3851,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4882113254494287295}
-  m_RootOrder: 0
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4667984446597381388
 GameObject:
@@ -3882,7 +3882,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4882113254494287295}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &386341428405955418
 BoxCollider2D:
@@ -3955,7 +3955,7 @@ Transform:
   - {fileID: 18900890446214033}
   - {fileID: 1904700928961458516}
   m_Father: {fileID: 4882113254494287295}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6027392874994555141
 GameObject:
@@ -4329,7 +4329,7 @@ Transform:
   m_Children:
   - {fileID: 1439005179925338141}
   m_Father: {fileID: 4882113254494287295}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!156049354 &8003057263131537332
 Grid:
@@ -5634,6 +5634,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4882113254494287295}
+  - component: {fileID: 2951504940548758435}
   m_Layer: 0
   m_Name: House2
   m_TagString: Untagged
@@ -5652,17 +5653,33 @@ Transform:
   m_LocalPosition: {x: -173.74152, y: -16.872313, z: 0.55090296}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1503772528448464643}
   - {fileID: 6346933420096178222}
   - {fileID: 609625248827126196}
   - {fileID: 5103537523883691022}
   - {fileID: 7831335877741940241}
-  - {fileID: 2258744030245531578}
   - {fileID: 2713423946617680296}
   - {fileID: 4233294568204383570}
+  - {fileID: 1503772528448464643}
+  - {fileID: 2258744030245531578}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2951504940548758435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8655314593770108920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0b69234f6f05b4faba8a2209c111a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  placeName: TownHouse2
+  index: 3
+  entrance: {fileID: 1503772528448464643}
+  exit: {fileID: 2258744030245531578}
 --- !u!1 &8722264301629337820
 GameObject:
   m_ObjectHideFlags: 0

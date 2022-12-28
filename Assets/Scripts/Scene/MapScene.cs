@@ -31,14 +31,14 @@ public class MapScene : MonoBehaviour
         PlaceManager placemanager = PlaceManager.GetInstance();
         
 
-        Object map = Resources.Load($"Maps/MapScene/TileMaps");
+        Object map = Resources.Load($"Places/MapScene/MainMap");
         GameObject maps = (GameObject)Instantiate(map);
-        Object wall = Resources.Load($"Maps/MapScene/NoPassLayers");
+        Object wall = Resources.Load($"Places/MapScene/NoPassLayers");
         GameObject walls = (GameObject)Instantiate(wall);
 
         PortalManager portalmanager = PortalManager.GetInstance();
-        portalmanager.LoadEnters(scenename);
-        portalmanager.LoadSumms(scenename);
+        //portalmanager.LoadEnters(scenename);
+        //portalmanager.LoadSumms(scenename);
 
         SceneExecutor sceneexcutor = SceneExecutor.GetInstance();
 

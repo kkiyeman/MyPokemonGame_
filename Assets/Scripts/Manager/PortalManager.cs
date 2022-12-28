@@ -21,7 +21,8 @@ public class PortalManager : MonoBehaviour
     }
     #endregion
 
-    public Dictionary<Place,Places> portals;
+
+    
 
     public void InitPortals()
     {

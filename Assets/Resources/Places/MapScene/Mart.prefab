@@ -159,7 +159,7 @@ Transform:
   - {fileID: 600513568272789548}
   - {fileID: 1509118261132068405}
   m_Father: {fileID: 25426207572284560}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1430564414508434703
 GameObject:
@@ -1562,7 +1562,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 25426207572284560}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2876154827176288160
 GameObject:
@@ -1808,7 +1808,7 @@ Transform:
   m_LocalScale: {x: 0.4, y: 0.4, z: 0.5}
   m_Children: []
   m_Father: {fileID: 25426207572284560}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5290284665495766648
 SpriteRenderer:
@@ -1947,7 +1947,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 25426207572284560}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &7037886338347770324
 BoxCollider2D:
@@ -4610,6 +4610,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 25426207572284560}
+  - component: {fileID: 5262623510467287142}
   m_Layer: 0
   m_Name: Mart
   m_TagString: Untagged
@@ -4631,13 +4632,29 @@ Transform:
   - {fileID: 891006015372580009}
   - {fileID: 750640870424650568}
   - {fileID: 5232728260869377221}
-  - {fileID: 696113727656594373}
   - {fileID: 8196977453405238498}
-  - {fileID: 8277783310459331613}
   - {fileID: 147794676471454411}
+  - {fileID: 696113727656594373}
+  - {fileID: 8277783310459331613}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5262623510467287142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8032862363898790070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb0b69234f6f05b4faba8a2209c111a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  placeName: Mart
+  index: 1
+  entrance: {fileID: 696113727656594373}
+  exit: {fileID: 8277783310459331613}
 --- !u!1 &8038905911054732236
 GameObject:
   m_ObjectHideFlags: 0

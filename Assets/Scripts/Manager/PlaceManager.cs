@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
+using Object = UnityEngine.Object;
 
 public enum Place
 {
@@ -30,33 +32,28 @@ public class PlaceManager : MonoBehaviour
     }
     #endregion
 
-    public List<Places> places;
+    Dictionary<int,Places> places = new Dictionary<int,Places>();
 
-    public GameObject LoadMap(string scene)
-    {
-        Object map = Resources.Load($"Maps/{scene}/TileMaps");
-        GameObject maps = (GameObject)Instantiate(map);
 
-        return maps;
-    }
-
-    public GameObject LoadWall(string scene)
-    {
-        {
-            Object wall = Resources.Load($"Maps/{scene}/NoPassLayers");
-            GameObject walls = (GameObject)Instantiate(wall);
-
-            return walls;
-        }
-    }
-
-    // Start is called before the first frame update
     void Start()
     {
 
     }
 
-    // Update is called once per frame
+    public void RegisterPlacePortalData(int index,Places placedata)
+    {
+        places.Add(index,placedata);
+    }
+
+    public GameObject LoadPlaces(Place place)
+    {
+
+        Object plc = Resources.Load($"Maps/Places/{place}");
+        GameObject places = (GameObject)Instantiate(plc);
+
+        return places;
+    }
+
     void Update()
     {
 

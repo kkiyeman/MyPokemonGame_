@@ -9,4 +9,8 @@ public class Places : MonoBehaviour
     public Transform entrance;
     public Transform exit;
 
+    private void Start()
+    {
+        PlaceManager.GetInstance().RegisterPlacePortalData(index,this) ;
+    }
 }
